@@ -1,0 +1,4 @@
+insert into usuario(nombre,password,rol)
+values('Daniel Agurto', '1234', 'ADMIN');
+insert into usuario(nombre,password,rol)
+values('Josue Pulache', '12345', 'USER');
